@@ -13,7 +13,7 @@
     {
       "id": 0,
       "placeName": "Ha Noi",
-      "banner" :` <div class="text-banner">
+      "banner" : "<div class="text-banner">
             <h1 class="city-name">Ha Noi</h1>
             <p class="sub-city-name">Hanoi’s landscape is both ancient and modern</p>
         </div>
@@ -124,7 +124,7 @@
                     <figure class="gallery__item gallery__item--6">
                         <img src="https://znews-photo.zadn.vn/w1920/Uploaded/mdf_kxrxdf/2018_12_07/1_14_3.jpg" alt="Gallery image 6" class="gallery__img">
                     </figure>
-                </div>`,
+                </div>",
     },
     {
       "id": 1,

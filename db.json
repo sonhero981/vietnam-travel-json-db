@@ -13,12 +13,25 @@
     {
       "id": 0,
       "title": "Title 1",
-      "user_id": 1
+      "userId": 1
     },
     {
       "id": 1,
       "title": "Title 2",
-      "user_id": 0
+      "userId": 0
+    }
+  ],
+  "fav-posts": [
+    {
+      "id": 0,
+      "userId": 0,
+      "postId": 1
+    },
+    {
+      "id": 1,
+      "userId":1,
+      "postId":1
     }
   ]
   }
+

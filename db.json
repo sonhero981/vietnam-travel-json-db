@@ -13,11 +13,11 @@
     {
       "id": 0,
       "placeName": "Ha Noi",
-      "banner" : "<div class="text-banner">
-            <h1 class="city-name">Ha Noi</h1>
-            <p class="sub-city-name">Hanoi’s landscape is both ancient and modern</p>
+      "banner" : "<div class='text-banner'>
+            <h1 class='city-name'>Ha Noi</h1>
+            <p class='sub-city-name'>Hanoi’s landscape is both ancient and modern</p>
         </div>
-        <div class="weather-place">
+        <div class='weather-place'>
             <img src="" alt="weather-icon" class="weather-icon"> 
             <p class="weather-state"></p>
             <p class="temperature"></p>

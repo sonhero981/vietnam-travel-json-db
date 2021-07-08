@@ -167,7 +167,7 @@
   "styles": [
     {
       "id": 0,
-      "style":"beach",
+      "location":"beach",
       "name": "Beach Holidays in Vietnam",
       "subName": "Happiness is a day at the beach!",
       "banner": "https://images.hdqwalls.com/wallpapers/nature-beach-wallpaper.jpg",
@@ -187,7 +187,7 @@
     {
       "id": 2,
       "name": "",
-      "location":"adventure",
+      "location": "adventure",
       "subName": "",
       "overview": "", 
       "gallery": "",
@@ -205,6 +205,7 @@
     {
       "id": 4,
       "name": "luxury",
+      "location": "luxury",
       "subName": "",
       "overview": "", 
       "gallery": "",
@@ -213,6 +214,7 @@
     {
       "id": 5,
       "name": "discovery",
+      "location": "discovery",
       "subName": "",
       "overview": "", 
       "gallery": "",

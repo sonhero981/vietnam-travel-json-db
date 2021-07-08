@@ -178,8 +178,8 @@
     {
       "id": 1,
       "location":"culture",
-      "name": "culture",
-      "subName": "",
+      "name": "Culture holiday in Vietnam ",
+      "subName": "Discover the culture of ethnic groups in Vietnam",
       "overview": "", 
       "gallery": "",
       "places": ""
@@ -187,8 +187,8 @@
     {
       "id": 2,
       "location": "adventure",
-      "name": "",
-      "subName": "",
+      "name": "Adventure holiday in Vietnam ",
+      "subName": "Adventure to new lands",
       "overview": "", 
       "gallery": "",
       "places": ""
@@ -196,8 +196,8 @@
     {
       "id": 3,
       "location":"food",
-      "name": "",
-      "subName": "",
+      "name": "Food & Culinary holiday in Vietnam ",
+      "subName": "Enjoy the rich variety of cuisine here",
       "overview": "", 
       "gallery": "",
       "places": ""
@@ -205,8 +205,8 @@
     {
       "id": 4,
       "location": "luxury",    
-      "name": "luxury",
-      "subName": "",
+      "name": "Luxury holiday in Vietnam ",
+      "subName": "Enjoy a luxurious life at top resorts",
       "overview": "", 
       "gallery": "",
       "places": ""
@@ -214,8 +214,8 @@
     {
       "id": 5,
       "location": "discovery",      
-      "name": "discovery",
-      "subName": "",
+      "name": "Discovery holiday in Vietnam ",
+      "subName": "Discover all of Vietnam's nature",,
       "overview": "", 
       "gallery": "",
       "places": ""

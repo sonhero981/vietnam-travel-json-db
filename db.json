@@ -167,7 +167,7 @@
   "styles": [
     {
       "id": 0,
-      "location":"beach",
+      "location": "beach",
       "name": "Beach Holidays in Vietnam",
       "subName": "Happiness is a day at the beach!",
       "banner": "https://images.hdqwalls.com/wallpapers/nature-beach-wallpaper.jpg",
@@ -177,7 +177,7 @@
     },
     {
       "id": 1,
-      "location":"culture",
+      "location": "culture",
       "name": "Culture holiday in Vietnam ",
       "subName": "Discover the culture of ethnic groups in Vietnam",
       "overview": "", 
@@ -195,7 +195,7 @@
     },
     {
       "id": 3,
-      "location":"food",
+      "location": "food",
       "name": "Food & Culinary holiday in Vietnam ",
       "subName": "Enjoy the rich variety of cuisine here",
       "overview": "", 

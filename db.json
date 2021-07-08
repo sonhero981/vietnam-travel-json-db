@@ -180,6 +180,7 @@
       "location": "cultural",
       "name": "Cultural holiday in Vietnam ",
       "subName": "Discover the culture of ethnic groups in Vietnam",
+      "banner": "https://images.unsplash.com/photo-1596401057633-54a8fe8ef647?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
       "overview": "", 
       "gallery": "",
       "places": ""
@@ -189,6 +190,7 @@
       "location": "adventure",
       "name": "Adventure holiday in Vietnam ",
       "subName": "Adventure to new lands",
+      "banner": "https://images.unsplash.com/photo-1489258205848-4b9651de165b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
       "overview": "", 
       "gallery": "",
       "places": ""
@@ -198,6 +200,7 @@
       "location": "food",
       "name": "Food & Culinary holiday in Vietnam ",
       "subName": "Enjoy the rich variety of cuisine here",
+      "banner": "https://images.unsplash.com/photo-1594020292985-216a72a2c7ce?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1960&q=80",
       "overview": "", 
       "gallery": "",
       "places": ""
@@ -207,6 +210,7 @@
       "location": "luxury",    
       "name": "Luxury holiday in Vietnam ",
       "subName": "Enjoy a luxurious life at top resorts",
+      "banner": "https://images.unsplash.com/photo-1561501900-3701fa6a0864?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80",
       "overview": "", 
       "gallery": "",
       "places": ""
@@ -216,6 +220,7 @@
       "location": "discovery",      
       "name": "Discovery holiday in Vietnam ",
       "subName": "Discover all of Vietnam nature",
+      "banner": "https://images.unsplash.com/photo-1504457047772-27faf1c00561?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2017&q=80",
       "overview": "", 
       "gallery": "",
       "places": ""

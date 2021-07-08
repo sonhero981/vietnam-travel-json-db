@@ -186,8 +186,8 @@
     },
     {
       "id": 2,
-      "name": "",
       "location": "adventure",
+      "name": "",
       "subName": "",
       "overview": "", 
       "gallery": "",
@@ -195,8 +195,8 @@
     },
     {
       "id": 3,
-      "name": "",
       "location":"food",
+      "name": "",
       "subName": "",
       "overview": "", 
       "gallery": "",
@@ -204,8 +204,8 @@
     },
     {
       "id": 4,
+      "location": "luxury",    
       "name": "luxury",
-      "location": "luxury",
       "subName": "",
       "overview": "", 
       "gallery": "",
@@ -213,8 +213,8 @@
     },
     {
       "id": 5,
+      "location": "discovery",      
       "name": "discovery",
-      "location": "discovery",
       "subName": "",
       "overview": "", 
       "gallery": "",

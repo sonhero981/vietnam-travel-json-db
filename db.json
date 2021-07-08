@@ -176,40 +176,43 @@
       "places": ""
     },
     {
-      "id": 0,
-      "name": "",
+      "id": 1,
+      "style":"culture",
+      "name": "culture",
       "subName": "",
       "overview": "", 
       "gallery": "",
       "places": ""
     },
     {
-      "id": 0,
+      "id": 2,
       "name": "",
+      "style":"adventure",
       "subName": "",
       "overview": "", 
       "gallery": "",
       "places": ""
     },
     {
-      "id": 0,
+      "id": 3,
       "name": "",
+      "style":"food",
       "subName": "",
       "overview": "", 
       "gallery": "",
       "places": ""
     },
     {
-      "id": 0,
-      "name": "",
+      "id": 4,
+      "name": "luxury",
       "subName": "",
       "overview": "", 
       "gallery": "",
       "places": ""
     },
     {
-      "id": 0,
-      "name": "",
+      "id": 5,
+      "name": "discovery",
       "subName": "",
       "overview": "", 
       "gallery": "",

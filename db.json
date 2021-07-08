@@ -177,7 +177,7 @@
     },
     {
       "id": 1,
-      "style":"culture",
+      "location":"culture",
       "name": "culture",
       "subName": "",
       "overview": "", 
@@ -187,7 +187,7 @@
     {
       "id": 2,
       "name": "",
-      "style":"adventure",
+      "location":"adventure",
       "subName": "",
       "overview": "", 
       "gallery": "",
@@ -196,7 +196,7 @@
     {
       "id": 3,
       "name": "",
-      "style":"food",
+      "location":"food",
       "subName": "",
       "overview": "", 
       "gallery": "",

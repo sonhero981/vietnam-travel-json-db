@@ -227,7 +227,7 @@
     }
   ],
   "user": [
-    {
+    {   "id": 0,
         "username": "son123",
          "password": "1234567"
     }

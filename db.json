@@ -229,7 +229,8 @@
   "users": [
     {   "id": 0,
         "username": "son123",
-         "password": "1234567"
+         "password": "1234567",
+         "email":"sonhero981@gmail.com" 
     }
   ]
   

@@ -229,17 +229,17 @@
   "users": [
     {   "id": 0,
         "username": "son123",
-         "password": "1234567",
+         "password": "12345678",
          "email":"sonhero981@gmail.com" 
     },
      {   "id": 1,
         "username": "ha123",
-         "password": "1234567",
+         "password": "12345678",
          "email":"ha123@gmail.com" 
     },
      {   "id": 2,
         "username": "hoang123",
-         "password": "1234567",
+         "password": "12345678",
          "email":"hoang123@gmail.com" 
     }
   ],

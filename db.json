@@ -230,17 +230,20 @@
     {   "id": 0,
         "username": "son123",
          "password": "12345678",
-         "email":"sonhero981@gmail.com" 
+         "email":"sonhero981@gmail.com",
+         "avatar": "https://image.thanhnien.vn/1024/uploaded/gianglao/2020_12_07/son_ybzu.jpg"
     },
      {   "id": 1,
         "username": "ha123",
          "password": "12345678",
-         "email":"ha123@gmail.com" 
+         "email":"ha123@gmail.com", 
+         "avatar": "https://pbs.twimg.com/profile_images/807107466009792512/ouFeHHDj.jpg"
     },
      {   "id": 2,
         "username": "hoang123",
          "password": "12345678",
          "email":"hoang123@gmail.com" 
+         "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSBOXUAXU3Hv-hgg3Nif5owYcPoqkckXpU7A&usqp=CAU"
     }
   ],
   "feedbacks":[

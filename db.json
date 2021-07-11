@@ -255,27 +255,27 @@
       {   "id": 1,
         "content": "I am very happy to come to HaLong",
         "location": "Hạ Long",
-        "userId": 0
+        "userId": 1
     },
       {   "id": 2,
         "content": "I am very happy to come to Hue",
         "location": "Huế",
-        "userId": 0
+        "userId": 2
     },
       {   "id": 3,
-        "content": "I am very happy to come to Hanoi",
+        "content": "I am very happy to come to Ha Giang",
         "location": "Hà Giang",
         "userId": 0
     },
       {   "id": 4,
         "content": "I am very happy to come to SaPa",
         "location": "SaPa",
-        "userId": 0
+        "userId": 1
     },
       {   "id": 5,
-        "content": "I am very happy to come to Hanoi",
+        "content": "I am very happy to come to Sai Gon",
         "location": "Sài Gòn",
-        "userId": 0
+        "userId": 2
     }
   ],
   "fav_posts": []
